@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h2>Your information details</h2> <br>
+    Name : <%= name%> <br>
+    E-mail : <%= email%> <br>
+    PIN : <%= pin%>  <br>
+    Active: <%= active%><br>
+    <p>Do you want to edit your details? if yes then fill the form below</p> <br>
+    <form action="" method="POST">
+        name <input type="text" name="updatename"> <br> <br>
+        email <input type="text" name="updateemail"> <br> <br>
+        pin <input type="text", name="updatepin"> <br> <br>
+        <button type="submit">update</button> &emsp13;
+    </form>
+    <br>
+    <p>Do you want to stop recieving e-mails? if yes then click on stop.</p>
+    <form action="" method="POST">
+        <button type="submit" name="stopbutton">STOP</button>
+    </form>
+</body>
+</html>
