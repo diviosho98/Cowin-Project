@@ -1,8 +1,8 @@
 # Cowin-Project
 
-This is a cowin project created by me. This Project is in its middle stage, only database is required, on which we are working. Hopefully we will complete that soon.
-This is woring using the API of cowin portal. This works as- You have to provide your desired pincode to check the availability of the vaccines and your email address, then it will notify you
-with details of the vaccines availability at your pincodes in a mail provided by you. It will notify till you want.
+Hey, this is a project based on cowin API, as vaccination has started across the country but getting a slot is not a piece of cake, it is very difficult to find out when the slot opens. So this problem is solved by this app. Basically give your info (Name, E-mail, PIN) to this and it will notify you through the mail, whenever the slot is available at any vaccination center in your PIN code area. Center name, center address, vaccine name, doses available, this all information is send via mail.
 
 Technology used:
- HTML,CSS,Node JS,Express JS,Mongo DB (working on it).
+This project is made using HTML,Node JS,Express JS,MongoDB.
+
+Still some development and changes is going in this project. But it is working fine and very soon it will be hosted and link will be shared here.
